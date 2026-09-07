@@ -66,4 +66,4 @@ docker pull <your-dockerhub-username>/adlat-tutorials:1.0
 ![Live app](screenshots/live-app.png)
 
 ## Author
-Abdul-Ghaniy
+Ganiu Amokomowo
