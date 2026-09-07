@@ -1,0 +1,15 @@
+{
+  "name": "adlat-tutorials",
+  "version": "1.0.0",
+  "description": "Adlat Tutorials - an online teaching platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
